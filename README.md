@@ -21,14 +21,14 @@ Celem tej analizy jest porównanie przykładowych zbiorów danych. Pod uwagę wz
 16. Złożoność leksykalna – `lexical_density`
 17. Indeks czytelności <a href="https://pl.wikipedia.org/wiki/Indeks_czytelno%C5%9Bci_FOG" target=_blank>FOG</a> – `gunning_fog`
 
-### Foldery
+### Foldery i pliki
+**main.py** – plik, za pomocą którego wygenerowano `pandas.DataFrame` do dalszych obliczeń
+
 **manifests** – wykresy dla danych z plików *manifests* – danych zbiorczych dla datasetów
 
-**notebooks** – pliki `ipynb` z opisem i analizą danych
+**notebooks** – pliki `.ipynb` z opisem i analizą danych
 
-**web_artykuły_XXXX** – wykresy wymienionych cech (17) dla poszczególnych zbiorów danych
-
-**datasets_by_columns** – wykresy wymienionych cech (17) dla wszystkich zbiorów danych
+Kolejne wykresy znajdują się w folderze na Dysku Google <a href="https://drive.google.com/drive/folders/1qb8Cs27i_9zgw5f1vDGME1vBPXYwhJzG?usp=sharing">**datasets_by_columns**</a> – są to wykresy wymienionych cech (17) dla wszystkich zbiorów danych.
 
 
 
