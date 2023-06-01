@@ -24,9 +24,13 @@ Celem tej analizy jest porównanie przykładowych zbiorów danych. Pod uwagę wz
 ### Foldery i pliki
 **main.py** – plik, za pomocą którego wygenerowano `pandas.DataFrame` do dalszych obliczeń
 
-**manifests** – wykresy dla danych z plików *manifests* – danych zbiorczych dla datasetów
+**manifests** – wykresy dla danych z plików *manifests* – danych zbiorczych
+
+**web_artykuły_blogi_1**, **web_artykuły_edukacja_1** – wykresy dla poszczególnych zbiorów danych
 
 **notebooks** – pliki `.ipynb` z opisem i analizą danych
+
+
 
 Kolejne wykresy znajdują się w folderze na Dysku Google <a href="https://drive.google.com/drive/folders/1qb8Cs27i_9zgw5f1vDGME1vBPXYwhJzG?usp=sharing">**datasets_by_columns**</a> – są to wykresy wymienionych cech (17) dla wszystkich zbiorów danych.
 
